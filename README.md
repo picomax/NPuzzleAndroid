@@ -1,5 +1,7 @@
 # NPuzzleAndroid
 
+## N-Puzzle Game
+
 Android 개발 학습용 간단한 게임
 
 > 버튼을 이용해 간단한 N-퍼즐 게임을 만들었습니다.
