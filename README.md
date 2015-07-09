@@ -7,10 +7,10 @@ Android 개발 학습용 간단한 게임
 
 ## 스크린샷
 
-![](http://www.picomax.net/xe/files/attach/images/207/549/066/55b11cb2e2d8ec94ecf45675a3cd61ef.png)
+![](http://www.picomax.net/xe/files/attach/images/207/549/066/68f39f16faf810a87bed0dc49320e597.png)
 
 
-![](http://www.picomax.net/xe/files/attach/images/207/549/066/fae258f4ea4446bd952babb395194b0c.png)
+![](http://www.picomax.net/xe/files/attach/images/207/549/066/b2f952e012702680064691de6aca6f46.png)
 
 
 ## 현재 상태
