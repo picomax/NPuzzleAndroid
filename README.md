@@ -25,4 +25,8 @@ Android 개발 학습용 간단한 게임
 Copyright (c) 2015, [Jeong-Hoon Mo](https://github.com/picomax).
 All rights reserved.
 
-[http://www.picomax.net/xe/](http://www.picomax.net/xe/)
+[http://picomax.net/xe/66549](http://picomax.net/xe/66549)
+
+
+
+
